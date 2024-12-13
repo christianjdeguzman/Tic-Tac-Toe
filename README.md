@@ -17,3 +17,5 @@ Prerequisites
 Java Development Kit (JDK) installed (version 8 or higher).
 
 A text editor or an IDE like IntelliJ IDEA, Eclipse, or VS Code.
+
+![tictactoe img](https://github.com/user-attachments/assets/1d7f5811-5aeb-43a6-91dd-217b15a69de6)
