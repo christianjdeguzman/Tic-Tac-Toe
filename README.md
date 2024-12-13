@@ -1,19 +1,18 @@
-Tic Tac Toe
+## Getting Started
 
-Welcome to the Tic Tac Toe game project! This is a simple implementation of the classic game built using Java. The game allows two players to take turns marking the spaces in a 3x3 grid, aiming to get three marks in a row to win.
+Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
 
-Features
+## Folder Structure
 
-Two-player gameplay.
+The workspace contains two folders by default, where:
 
-Simple console-based interface.
+- `src`: the folder to maintain sources
+- `lib`: the folder to maintain dependencies
 
-Input validation to prevent invalid moves.
+Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
-Detects winning conditions and game ties.
+> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
 
-Prerequisites
+## Dependency Management
 
-Java Development Kit (JDK) installed (version 8 or higher).
-
-A text editor or an IDE like IntelliJ IDEA, Eclipse, or VS Code.
+The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
